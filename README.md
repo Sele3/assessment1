@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/Sele3/assessment1.git
-cd assessment1
+cd assessment1/assessment1-app/
 ```
 
 2. Install dependencies
